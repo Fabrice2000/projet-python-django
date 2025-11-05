@@ -1,9 +1,4 @@
-# Django Cour
 
-Objectifs : écosystème Python & Django, environnement isolé, projet pro, ORM, migrations, Admin, DBeaver.
-
-## Démarrage rapide
-```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install "Django>=4.2,<6"
