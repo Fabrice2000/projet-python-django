@@ -1,8 +1,8 @@
 
 djangorestframework
-
 django-filter
-
 drf-spectacular
-
 djangorestframework-simplejwt
+model-bakery
+pytest
+pytest-django
